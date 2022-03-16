@@ -4,8 +4,8 @@ I'm Ismael Mohamed.</h2>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Working as a Web Developer as a Freelancer.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+- 🌱 &nbsp; Learning more about Web Development and Cloud Architecture.
+- ✍️ &nbsp; Also writing Stuff in Geeky's Place.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
